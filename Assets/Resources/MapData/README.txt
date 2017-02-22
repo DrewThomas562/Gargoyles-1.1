@@ -1,0 +1,14 @@
+0,Player
+1,Tile
+10,Floor
+11,Wall
+12,Exit
+2,Decoration
+20,Door
+21,LockedDoor
+3,Item
+30,Key
+31,Bomb
+4,Pawn
+40,Turtle
+41,Creep
